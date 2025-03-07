@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Erose-T
+- 👋 Hi, I’m Tayn
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning how to do github and developmental languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m working on building my portfolio as a Software Engineer
 - 😄 Pronouns: Ze
 - ⚡ Fun fact: I used to dream of having another body with different personality.
 
